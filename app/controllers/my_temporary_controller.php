@@ -11,26 +11,26 @@
 		}
 
 		public static function thelastofus(){
-			View::make('thelastofus.html')
+			View::make('thelastofus.html');
 		}
 
 		public static function thesnowman(){
-			View::make('thesnowman.html')
+			View::make('thesnowman.html');
 		}
 
 		public static function hughjackman(){
-			View::make('hughjackman.html')
+			View::make('hughjackman.html');
 		}
 
 		public static function kateesackhoff(){
-			View::make('kateesackhoff.html')
+			View::make('kateesackhoff.html');
 		}
 
 		public static function maisiewilliams(){
-			View::make('maisiewilliams.html')
+			View::make('maisiewilliams.html');
 		}
 
 		public static function michaelfassbender(){
-			View::make('michaelfassbender.html')
+			View::make('michaelfassbender.html');
 		}
 	}
